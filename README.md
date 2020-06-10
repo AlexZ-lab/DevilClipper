@@ -1,7 +1,6 @@
  
 # :smiling_imp: DevilClipper
 Replace any BTC, XMR, XLM, ETH, XRP, LTC, BCH, NEC, ZCASH, DASH, DOGE, WMR, WMG, WMZ, WMH, WMU, WMX, Yandex money, Qiwi addresses in clipboard.
-
 # :zap: Info
  - [X] 10 kilobytes compiled executable
  - [X] No admininistrator rights required
@@ -11,6 +10,6 @@ Replace any BTC, XMR, XLM, ETH, XRP, LTC, BCH, NEC, ZCASH, DASH, DOGE, WMR, WMG,
 
 # :gear: Configuration file
 <p align="center">
-  <img src="https://i.ibb.co/GC5chXG/config.jpg">
+  <img src="https://i.ibb.co/BKTFNqT/devil.jpg">
 </p>
 
